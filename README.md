@@ -9,7 +9,7 @@ Text Decoration
 Links
 -----
 
-[Texto de exibição Âncora](#Text Decoration)
+[Texto de exibição Âncora](#Text)
 [Link externo](http://google.com)
 
 Code
@@ -27,9 +27,7 @@ Box
 
 `Caixa` - Box para texto
 
-[Teste de caixa]
+[Teste de caixa] 
+<resources>
 
-
-
-
-
+:smiley:
