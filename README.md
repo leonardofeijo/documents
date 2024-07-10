@@ -3,8 +3,10 @@
 Text Decoration
 ---------------
 
-** Bold Font **
-* Italic Font *
+**Bold Font** 
+*Italic Font* 
+~~Sublinhado~~ 
+***Bold and Italic*** 
 
 Links
 -----
@@ -27,7 +29,19 @@ Box
 
 `Caixa` - Box para texto
 
-[Teste de caixa] 
-<resources>
+Citação
+-------
+
+> Citação de algum texto
+> Lorem ipsun dolor
+> sit amet
+
+Lista Ordenada
+--------------
+
+1. Opção 1
+2. Opção 2
+3. Opção 3
+
 
 :smiley:
