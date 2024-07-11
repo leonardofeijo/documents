@@ -1,18 +1,18 @@
-### Documentação MD
+# Documentação MD
 
-Text Decoration
+TextDecoration
 ---------------
 
-**Bold Font** 
-*Italic Font* 
-~~Sublinhado~~ 
-***Bold and Italic*** 
+**Bold Font**  
+*Italic Font*  
+~~Sublinhado~~  
+***Bold and Italic***  
 
 Links
 -----
 
-[Texto de exibição Âncora](#Text)
-[Link externo](http://google.com)
+[Texto de exibição Âncora](#TextDecoration)  
+[Link externo](http://google.com)  
 
 Code
 ----
